@@ -28,8 +28,8 @@
 ### Provenance
 | Topic/Field | Data Requirement |
 |----------|----------|
-|Model Sjors| [repo](https://github.com/colonial-heritage/data-models?tab=readme-ov-file) and [model](https://github.com/colonial-heritage/data-models/blob/main/provenance-events/conceptual.md) with Linked Art|
-|Design Bas|[UX/UI Design Research App](https://gui-prototype.colonialcollections.nl/object.html)|
+|Model Architect Datahub| [repo](https://github.com/colonial-heritage/data-models?tab=readme-ov-file) and [model](https://github.com/colonial-heritage/data-models/blob/main/provenance-events/conceptual.md) with Linked Art|
+|Design UX/UI Designer Datahub|[UX/UI Design Research App](https://gui-prototype.colonialcollections.nl/object.html)|
 |Linked art|interpreted according to model Sjors|
 |All entities|PID required|
 |Type|aquisition vs transfer of custodyin CIDOC CRM; what is the claim here?|
