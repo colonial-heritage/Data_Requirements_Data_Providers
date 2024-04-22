@@ -9,7 +9,7 @@
 | Which location is relevant?    | Location of creation  |
 | Location name    | present day name of location and as precise as possible through identifier   |
 | location requirements    | universal  |
-| Date    | xxd, Integer on year level. Through CIDOC CRM it can be a range   |
+| Date    | XSD, Integer on year level. Through CIDOC CRM it can be a range   |
 | Material    | NMVW thesaurus or one that is aligned. AAT and CHT also used often. Alignment could be made by us  |
 | Factes and labels    | English - AAT and Dutch CHT ?  |
 | Foreign parties  | May need AAT?  |
@@ -40,7 +40,7 @@
 | Source | dont require citation |
 | Transferred from and to | constituents, to be added to graph |
 | Location | Geonames, rethink NMVW |
-| Date | Integers, structured, xxd |
+| Date | Integers, structured, XSD |
 | Start after and Ends before | ID of other provenance event/record, Link to events on time line, has to be provenance record, scope = provenance of the same object |
 | Related to | Events of Wikidata |
 
@@ -49,7 +49,7 @@
 |----------|----------|
 |identification| minimal information to identify person |
 | Dublicates | Same as relationship |
-| Date | Integer xxd |
+| Date | Integer  |
 | Location | Geonames |
 | Description | String, no max length | 
 | Source | dont require citation | 
@@ -59,8 +59,8 @@ Ideally now difference between Person and Organization, only in Type.
 ### Organisation
 | Topic/Field | Data Requirement |
 |----------|----------|
-| Date of foundation | Integer xxd |
-| Date of determination | Integer xxd |
+| Date of foundation | Integer XSD |
+| Date of determination | Integer XSD |
 | Location | Geonames |
 | Dublicates | Same as relationship |
 
