@@ -11,7 +11,7 @@
 | location requirements    | universal  |
 | Date    | XSD, Integer on year level. Through CIDOC CRM it can be a range   |
 | Material    | NMVW thesaurus or one that is aligned. AAT and CHT also used often. Alignment could be made by us  |
-| Factes and labels    | English - AAT and Dutch CHT ?  |
+| Facets and labels    | English - AAT and Dutch CHT ?  |
 | Foreign parties  | May need AAT?  |
 | Subjects   | NMVW thesaurus, follows the above  |
 | Type   | NMVW thesaurus, follows the above  |
