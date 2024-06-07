@@ -13,7 +13,7 @@
 | Material    | NMVW thesaurus or one that is aligned. AAT and CHT also used often. Alignment could be made by us*  |
 | Facets and labels    | English - AAT and Dutch CHT ?  |
 | Foreign parties*  | May need AAT?  |
-| Subjects   | NMVW thesaurus, follows the above  |
+| Subjects*   | NMVW thesaurus, follows the above  |
 | Type   | NMVW thesaurus, follows the above  |
 | Maker   | link to constituents in RA and map Wikidata/RKDartists to our constituents. Communities to be added to constituentsgraph  |
 | Object data provider   | register in dataset register of NDE or ours, responsibility on data provider  |
