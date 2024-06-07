@@ -62,7 +62,7 @@ Ideally now difference between Person and Organization, only in Type.
 | Date of foundation | Integer XSD |
 | Date of determination | Integer XSD |
 | Location | Geonames |
-| Dublicates | Same as relationship |
+| Duplicates | Same as relationship |
 
 ### Images
 | Topic/Field | Data Requirement |
