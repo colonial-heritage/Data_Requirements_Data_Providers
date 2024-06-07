@@ -10,9 +10,9 @@
 | Location name    | present day name of location and as precise as possible through identifier   |
 | location requirements    | universal  |
 | Date    | XSD, Integer on year level. Through CIDOC CRM it can be a range   |
-| Material    | NMVW thesaurus or one that is aligned. AAT and CHT also used often. Alignment could be made by us  |
+| Material    | NMVW thesaurus or one that is aligned. *AAT and CHT also used often. Alignment could be made by us  |
 | Facets and labels    | English - AAT and Dutch CHT ?  |
-| Foreign parties  | May need AAT?  |
+| *Foreign parties  | May need AAT?  |
 | Subjects   | NMVW thesaurus, follows the above  |
 | Type   | NMVW thesaurus, follows the above  |
 | Maker   | link to constituents in RA and map Wikidata/RKDartists to our constituents. Communities to be added to constituentsgraph  |
