@@ -51,7 +51,7 @@
 | Duplicates | Same as relationship* |
 | Date | Integer*  |
 | Location | Geonames* |
-| Description | String, no max length | 
+| Description | name (string, no max length)* | 
 | Source | dont require citation* | 
 
 Ideally now difference between Person and Organization, only in Type.
@@ -59,10 +59,11 @@ Ideally now difference between Person and Organization, only in Type.
 ### Organisation
 | Topic/Field | Data Requirement |
 |----------|----------|
-| Date of foundation | Integer XSD |
-| Date of determination | Integer XSD |
-| Location | Geonames |
-| Duplicates | Same as relationship |
+|identification| minimal information to identify orginasation |
+| Date of foundation | Integer XSD* |
+| Date of determination | Integer XSD* |
+| Location | Geonames* |
+| Duplicates | Same as relationship* |
 
 ### Images
 | Topic/Field | Data Requirement |
