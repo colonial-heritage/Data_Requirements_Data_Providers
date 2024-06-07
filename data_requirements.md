@@ -41,14 +41,14 @@
 | Transferred from and to | constituents, to be added to graph |
 | Location | Geonames, rethink NMVW |
 | Date | Integers, structured, XSD |
-| Start after and Ends before | ID of other provenance event/record, Link to events on time line, has to be provenance record, scope = provenance of the same object |
-| Related to | Events of Wikidata |
+| Start after and Ends before | ID of other provenance event/record, Link to events on time line, has to be provenance record, scope = provenance of the same object* |
+| Related to | Events of Wikidata* |
 
 ### Constituents - Person RDF Model
 | Topic/Field | Data Requirement |
 |----------|----------|
 |identification| minimal information to identify person |
-| Dublicates | Same as relationship |
+| Duplicates | Same as relationship |
 | Date | Integer  |
 | Location | Geonames |
 | Description | String, no max length | 
