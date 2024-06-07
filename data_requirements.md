@@ -48,11 +48,11 @@
 | Topic/Field | Data Requirement |
 |----------|----------|
 |identification| minimal information to identify person |
-| Duplicates | Same as relationship |
-| Date | Integer  |
-| Location | Geonames |
+| Duplicates | Same as relationship* |
+| Date | Integer*  |
+| Location | Geonames* |
 | Description | String, no max length | 
-| Source | dont require citation | 
+| Source | dont require citation* | 
 
 Ideally now difference between Person and Organization, only in Type.
 
